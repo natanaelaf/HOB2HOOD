@@ -2,7 +2,6 @@
 
 > An intelligent embedded system for smart range hood control with Hob2Hood integration and IR remote support.
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Arduino](https://img.shields.io/badge/Platform-Arduino%20UNO-green.svg)](https://www.arduino.cc/)
 [![PlatformIO](https://img.shields.io/badge/Build-PlatformIO-orange.svg)](https://platformio.org/)
 [![Embedded Systems](https://img.shields.io/badge/Category-Embedded%20Systems-red.svg)](#)
@@ -300,8 +299,4 @@ For major changes, please open an issue first to discuss the proposed changes.
 - [PlatformIO Documentation](https://docs.platformio.org/)
 - [Hob2Hood Specification](https://www.hob2hood.com/)
 - [ATmega328P Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328P-dS-01.pdf)
-
----
-
-**Made with ❤️ by [Your Name]**
 
