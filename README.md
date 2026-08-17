@@ -293,10 +293,3 @@ For major changes, please open an issue first to discuss the proposed changes.
 
 ---
 
-## 🔗 Useful Links
-
-- [Arduino Official Website](https://www.arduino.cc/)
-- [PlatformIO Documentation](https://docs.platformio.org/)
-- [Hob2Hood Specification](https://www.hob2hood.com/)
-- [ATmega328P Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328P-dS-01.pdf)
-
