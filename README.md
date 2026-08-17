@@ -201,12 +201,6 @@ IE60P/
 
 ---
 
-## License
-
-[Specify your license here - MIT, GPL, Proprietary, etc.]
-
----
-
 ## Support & Contact
 
 For issues, questions, or contributions:
